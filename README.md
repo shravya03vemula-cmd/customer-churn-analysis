@@ -150,8 +150,8 @@ python notebooks/churn_analysis.py
 
 ## 🤝 Connect
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/shravya-vemula-a95771214/]
+- Email: [shravya.data03@gmail.com]
 
 ---
 
